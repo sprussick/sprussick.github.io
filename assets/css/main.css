@@ -3135,6 +3135,7 @@ input, select, textarea {
 			padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
 			position: relative;
 			width: 26em;
+			overflow: auto;
 		}
 
 			#sidebar > .inner > * {

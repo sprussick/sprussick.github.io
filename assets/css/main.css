@@ -2128,12 +2128,6 @@ input, select, textarea {
 			transition: transform 0.2s ease;
 		}
 
-		a.image:hover img {
-			-moz-transform: scale(1.075);
-			-webkit-transform: scale(1.075);
-			-ms-transform: scale(1.075);
-			transform: scale(1.075);
-		}
 
 /* List */
 

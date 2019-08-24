@@ -3103,6 +3103,7 @@ input, select, textarea {
 		}
 
 	#sidebar {
+		 
 		-moz-flex-grow: 0;
 		-webkit-flex-grow: 0;
 		-ms-flex-grow: 0;
@@ -3119,6 +3120,12 @@ input, select, textarea {
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
+		
+		position: fixed;
+		   
+		    overflow-y: scroll;
+		    top: 0;
+		    bottom: 0;
 	}
 
 		#sidebar h2 {

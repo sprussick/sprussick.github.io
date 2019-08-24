@@ -3121,11 +3121,9 @@ input, select, textarea {
 		position: relative;
 		width: 26em;
 		
-		position: fixed;
-		   
-		    overflow-y: scroll;
-		    top: 0;
-		    bottom: 0;
+	
+	        overflow-y: scroll;
+		    
 	}
 
 		#sidebar h2 {
